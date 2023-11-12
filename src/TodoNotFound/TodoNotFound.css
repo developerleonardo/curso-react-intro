@@ -1,0 +1,10 @@
+.TodoNotFound {
+    align-content: center;
+    font-size: 35px;
+    margin: 100px -15px;
+    height: 100%;
+    width: 100%;
+    font-family: fantasy;
+    color: #77777780;
+    text-align: center;
+}
