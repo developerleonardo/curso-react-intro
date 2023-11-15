@@ -1,12 +1,14 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+# TODO MACHINE
 
-¡Hola, Platzinauta!
+WELCOME TO TODO MACHINE! This app was created based on the React.js course of Platzi
 
-En este repositorio encontrarás el código de todas las clases del [Curso de Introducción a React.js](https://platzi.com/reactjs). Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
+<p align="center"><img src="https://i.imgur.com/VGxrhvw.png?language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Dark" alt="project-image"></p>
 
-La rama principal contiene el código con el que eempezamos el curso. En las demás ramas encontrarás el código de las siguientes clases y finalmente el deploy de la aplicación.
+TODO MACHINE is an app that let you create a list of task about your daily life. You can add a new task and once you complete it you can either marke it as completed or you can delete it and add a new task. You will only need to write your daily To-Do itinerary and you will not miss anything at the end of the day/month
 
-¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
+##Demo
+
+[Todo Machine](https://developerleonardo.github.io/curso-react-intro/)
 
 ## Getting Started with Create React App
 
@@ -73,3 +75,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Author
+
+Made with 💚  by [Leonardo Salazar](https://www.linkedin.com/in/leonardo-salazar-serna/)
