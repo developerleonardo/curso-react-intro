@@ -6,7 +6,7 @@ WELCOME TO TODO MACHINE! This app was created based on the React.js course of Pl
 
 TODO MACHINE is an app that let you create a list of task about your daily life. You can add a new task and once you complete it you can either marke it as completed or you can delete it and add a new task. You will only need to write your daily To-Do itinerary and you will not miss anything at the end of the day/month
 
-##Demo
+## Demo
 
 [Todo Machine](https://developerleonardo.github.io/curso-react-intro/)
 
